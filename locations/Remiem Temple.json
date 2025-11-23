@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Remiem Temple",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "sections": [
+            {
+                "name": "Flower Scepter",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            },
+            {
+                "name": "Blossom Crown",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+            }
+        ],
+        "map_locations": [
+            {
+                "map": "Remiem Temple",
+                "x": 1485,
+                "y": 1504,
+                "size": 6
+            }
+        ]
+    }
+]
