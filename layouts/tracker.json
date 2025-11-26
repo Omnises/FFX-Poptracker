@@ -23,6 +23,15 @@
                             },
                             {
                                 "type": "group",
+                                "header": "Aeons",
+                                "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "aeons_horizontal"
+                                }
+                            },
+                            {
+                                "type": "group",
                                 "header": "Regions",
                                 "dock": "top",
                                 "content": {

@@ -52,6 +52,12 @@
                 "map_locations": [{ "map": "Miihen Highroad Agency", "x": 0, "y": 0}],
                 "access_rules": ["$hasMiihen"],
                 "sections": [{}]
+            },
+            {
+                "name": "Al Bhed Primer IX",
+                "map_locations": [{ "map": "Miihen Highroad North", "x": 0, "y": 0}],
+                "access_rules": ["$hasMiihen"],
+                "sections": [{}]
             }
         ]
     }

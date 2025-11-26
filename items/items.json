@@ -2552,7 +2552,7 @@
     {
         "name": "Party Member: Bahamut",
         "type": "toggle",
-        "img": "images/items/partymember:bahamut.png",
+        "img": "images/party/aeons/Bahamut.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -3582,7 +3582,7 @@
     {
         "name": "Party Member: Ifrit",
         "type": "toggle",
-        "img": "images/items/partymember:ifrit.png",
+        "img": "images/party/aeons/Ifrit.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -3742,7 +3742,7 @@
     {
         "name": "Party Member: Ixion",
         "type": "toggle",
-        "img": "images/items/partymember:ixion.png",
+        "img": "images/party/aeons/Ixion.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -3852,7 +3852,7 @@
     {
         "name": "Party Member: Shiva",
         "type": "toggle",
-        "img": "images/items/partymember:shiva.png",
+        "img": "images/party/aeons/Shiva.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -3862,7 +3862,7 @@
     {
         "name": "Party Member: Magus Sisters",
         "type": "toggle",
-        "img": "images/items/partymember:magussisters.png",
+        "img": "images/party/aeons/Magus Sisters.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -6434,7 +6434,7 @@
     {
         "name": "Party Member: Valefor",
         "type": "toggle",
-        "img": "images/items/partymember:valefor.png",
+        "img": "images/party/aeons/Valefor.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -6934,7 +6934,7 @@
     {
         "name": "Party Member: Anima",
         "type": "toggle",
-        "img": "images/items/partymember:anima.png",
+        "img": "images/party/aeons/Anima.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -8764,7 +8764,7 @@
     {
         "name": "Party Member: Yojimbo",
         "type": "toggle",
-        "img": "images/items/partymember:yojimbo.png",
+        "img": "images/party/aeons/Yojimbo.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,

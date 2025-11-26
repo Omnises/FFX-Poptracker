@@ -332,13 +332,105 @@
                         "ref": "Miihen Highroad/South/Hi-Potion (Yellow Shirt NPC)/"
                     },
                     {
+                        "name": "South - Hunters Spear (Blue Shirt NPC)",
+                        "ref": "Miihen Highroad/South/Hunters Spear (Blue Shirt NPC)/"
+                    },
+                    {
+                        "name": "South - Antidote x2 (Red Skirt NPC)",
+                        "ref": "Miihen Highroad/South/Antidote x2 (Red Skirt NPC)/"
+                    },
+                    {
+                        "name": "South - Ice Brand (Chest)",
+                        "ref": "Miihen Highroad/South/Ice Brand (Chest)/"
+                    },
+                    {
+                        "name": "South - Remedy x1 (Chest)",
+                        "ref": "Miihen Highroad/South/Remedy x1 (Chest)/"
+                    },
+                    {
+                        "name": "Central - Lv. 1 Key Sphere x1 (Purple Crusader NPC)",
+                        "ref": "Miihen Highroad/Central/Lv. 1 Key Sphere x1 (Purple Crusader NPC)/"
+                    },
+                    {
+                        "name": "Central - Antidote x4 (Woman in Yellow NPC)",
+                        "ref": "Miihen Highroad/Central/Antidote x4 (Woman in Yellow NPC)/"
+                    },
+                    {
+                        "name": "Central - 2000 gil (Chest)",
+                        "ref": "Miihen Highroad/Central/2000 gil (Chest)/"
+                    },
+                    {
+                        "name": "Central - 600 gil (Yellow Crusader NPC)",
+                        "ref": "Miihen Highroad/Central/600 gil (Yellow Crusader NPC)/"
+                    },
+                    {
+                        "name": "Central - Ether x1 (NPC)",
+                        "ref": "Miihen Highroad/Central/Ether x1 (NPC)/"
+                    },
+                    {
+                        "name": "Central - Hi-Potion x1 (NPC)",
+                        "ref": "Miihen Highroad/Central/Hi-Potion x1 (NPC)/"
+                    },
+                    {
+                        "name": "Central - Eye Drops x3 (Chest)",
+                        "ref": "Miihen Highroad/Central/Eye Drops x3 (Chest)/"
+                    },
+                    {
+                        "name": "South - Red Ring (Crusader NPC)",
+                        "ref": "Miihen Highroad/South/Red Ring (Crusader NPC)/"
+                    },
+                    {
+                        "name": "South - Soft x3 (Boy NPC)",
+                        "ref": "Miihen Highroad/South/Soft x3 (Boy NPC)/"
+                    },
+                    {
+                        "name": "Agency - Lv. 1 Key Sphere x1 (NPC)",
+                        "ref": "Miihen Highroad/Agency/Lv. 1 Key Sphere x1 (NPC)/"
+                    },
+                    {
+                        "name": "Agency - Mega-Potion (NPC)",
+                        "ref": "Miihen Highroad/Agency/Mega-Potion (NPC)/"
+                    },
+                    {
+                        "name": "Agency - Al Bhed Primer VIII",
+                        "ref": "Al Bhed Primers/Al Bhed Primer VIII/"
+                    },
+                    {
                         "name": "Agency - Chocobo Eater",
                         "ref": "Miihen Highroad/Agency/Chocobo Eater/"
                     },
                     {
                         "name": "North - Heat Lance (Chest)",
                         "ref": "Miihen Highroad/North/Heat Lance (Chest)/"
+                    },
+                    {
+                        "name": "North - Al Bhed Primer IX",
+                        "ref": "Al Bhed Primers/Al Bhed Primer IX/"
+                    },
+                    {
+                        "name": "North - Hi-Potion x2 (Chest)",
+                        "ref": "Miihen Highroad/North/Hi-Potion x2 (Chest)/"
+                    },
+                    {
+                        "name": "North - Thunder Blade (Chest)",
+                        "ref": "Miihen Highroad/North/Thunder Blade (Chest)/"
+                    },
+                    {
+                        "name": "North - Scout (Chest)",
+                        "ref": "Miihen Highroad/North/Scout (Chest)/"
+                    },
+                    {
+                        "name": "North - Fortune Sphere (Chest)",
+                        "ref": "Miihen Highroad/North/Fortune Sphere (Chest)/"
+                    },
+                    {
+                        "name": "North - Mars Crest (Chest)",
+                        "ref": "Celestial/Crest/Mars Crest (Chest)/"
                     }
+                    // {
+                    //     "name": "Ruins - Sonar (Airship X35, Y57)",
+                    //     "ref": "Airship/Miihen Ruins/Sonar (X35, Y57)/"
+                    // }
                 ]
             }
         ]
