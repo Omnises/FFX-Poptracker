@@ -12,7 +12,7 @@
                 "sections": [{}]
             },
             {
-                "name": "Tros Defeated",
+                "name": "Tros",
                 "map_locations": [{ "map": "Al Bhed Ship", "x": 0, "y": 0}],
                 "sections": [{}]
             }

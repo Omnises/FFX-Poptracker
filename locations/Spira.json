@@ -64,6 +64,10 @@
                         "ref": "Baaj Temple/Inside/Klikk/"
                     },
                     {
+                        "name": "Temple - Geosgaeno",
+                        "ref": "Baaj Temple/Temple/Geosgaeno/"
+                    },
+                    {
                         "name": "Temple - Megalixir (Chest)",
                         "ref": "Baaj Temple/Temple/Megalixir (Chest)/"
                     },
@@ -949,7 +953,7 @@
             },
             {
                 "name": "Bikanel",
-                "map_locations": [{ "map": "Spira", "x": 712, "y": 400, "size": 24}],
+                "map_locations": [{ "map": "Spira", "x": 712, "y": 400, "size": 32}],
                 "sections": [
                     {
                         "name": "Bikanel East - Remedy x4 (Chest)",
@@ -1002,7 +1006,134 @@
                     {
                         "name": "Bikanel Central - Al Bhed Primer XVII",
                         "ref": "Al Bhed Primers/Al Bhed Primer XVII/"
-                    }                    
+                    },
+                    {
+                        "name": "Bikanel West - Megalixir x3 (Chest)",
+                        "ref": "Bikanel/Desert/West/Megalixir x3 (Chest)/"
+                    },
+                    {
+                        "name": "Bikanel West - Teleport Sphere x2 (Chest)",
+                        "ref": "Bikanel/Desert/West/Teleport Sphere x2 (Chest)/"
+                    },
+                    {
+                        "name": "Bikanel West - Hi-Potion x8 (Chest)",
+                        "ref": "Bikanel/Desert/West/Hi-Potion x8 (Chest)/"
+                    },
+                    {
+                        "name": "Bikanel West - Mercury Crest (Chest)",
+                        "ref": "Celestial/Rikku/Mercury Crest (Chest)/"
+                    },
+                    {
+                        "name": "Bikanel West - Mega-Potion x3 (Chest)",
+                        "ref": "Bikanel/Desert/West/Mega-Potion x3 (Chest)/"
+                    },
+                    {
+                        "name": "Bikanel West - X-Potion x2 (Chest)",
+                        "ref": "Bikanel/Desert/West/X-Potion x2 (Chest)/"
+                    },
+                    {
+                        "name": "Bikanel West - Mercury Sigil (Cactuar Village)",
+                        "ref": "Celestial/Rikku/Mercury Sigil (Cactuar Village)/"
+                    },
+                    {
+                        "name": "Super Bosses - Dark Ifrit",
+                        "ref": "Super Bosses/Dark Ifrit/"
+                    }
+                ]
+            },
+            {
+                "name": "Home",
+                "map_locations": [{ "map": "Spira", "x": 675, "y": 400, "size": 24}],
+                "sections": [
+                    {
+                        "name": "Home - Hi-Potion x2 (NPC on Ground)",
+                        "ref": "Bikanel/Home/Hi-Potion x2 (NPC on Ground)/"
+                    },
+                    {
+                        "name": "Home - Al Bhed Primer XIX",
+                        "ref": "Al Bhed Primers/Al Bhed Primer XIX/"
+                    },
+                    {
+                        "name": "Home - Al Bhed Potion x6 (Chest)",
+                        "ref": "Bikanel/Home/Al Bhed Potion x6 (Chest)/"
+                    },
+                    {
+                        "name": "Home - Al Bhed Primer XXI",
+                        "ref": "Al Bhed Primers/Al Bhed Primer XXI/"
+                    },
+                    {
+                        "name": "Home - Special Sphere x1 (Al Bhed Password Chest)",
+                        "ref": "Bikanel/Home/Special Sphere x1 (Al Bhed Password Chest)/"
+                    },
+                    {
+                        "name": "Home - Skill Sphere x1 (Al Bhed Quiz Chest)",
+                        "ref": "Bikanel/Home/Skill Sphere x1 (Al Bhed Quiz Chest)/"
+                    },
+                    {
+                        "name": "Home - Al Bhed Potion x4 (Chest)",
+                        "ref": "Bikanel/Home/Al Bhed Potion x4 (Chest)/"
+                    },
+                    {
+                        "name": "Home - Al Bhed Primer XX",
+                        "ref": "Al Bhed Primers/Al Bhed Primer XX/"
+                    }, 
+                    {
+                        "name": "Home - Friend Sphere x1 (Al Bhed Vocabulary Chest)",
+                        "ref": "Bikanel/Home/Friend Sphere x1 (Al Bhed Vocabulary Chest)/"
+                    },
+                    {
+                        "name": "Home - Elixir x1 (Al Bhed Vocabulary Chest)",
+                        "ref": "Bikanel/Home/Elixir x1 (Al Bhed Vocabulary Chest)/"
+                    },
+                    {
+                        "name": "Home - Area Completion",
+                        "ref": "Bikanel/Home/Area Completion/"
+                    }
+                ]
+            },
+            {
+                "name": "Airship",
+                "map_locations": [{ "map": "Spira", "x": 740, "y": 500, "size": 32}],
+                "sections": [
+                    {
+                        "name": "Airship - Al Bhed Potion x4 (NPC)",
+                        "ref": "Airship/Al Bhed Potion x4 (NPC)/"
+                    },
+                    {
+                        "name": "Airship - Complete Al Bhed Primers",
+                        "ref": "Al Bhed Primers/Complete Al Bhed Primers/"
+                    },
+                    {
+                        "name": "Airship - Evrae",
+                        "ref": "Airship/Evrae/"
+                    },
+                    {
+                        "name": "Airship - Sin Left Fin",
+                        "ref": "Airship/Sin Left Fin/"
+                    },
+                    {
+                        "name": "Airship - Sin Right Fin",
+                        "ref": "Airship/Sin Right Fin/"
+                    },
+                    {
+                        "name": "Airship - Sinspawn Genais and Core",
+                        "ref": "Airship/Sinspawn Genais and Core/"
+                    },
+                    {
+                        "name": "Airship - Overdrive Sin",
+                        "ref": "Airship/Overdrive Sin/"
+                    },
+                    {
+                        "name": "Super Bosses - Penance",
+                        "ref": "Super Bosses/Penance/"
+                    }
+                ]
+            },
+            {
+                "name": "Bevelle",
+                "map_locations": [{ "map": "Spira", "x": 740, "y": 500, "size": 32}],
+                "sections": [
+
                 ]
             }
         ]

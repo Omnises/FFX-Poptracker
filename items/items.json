@@ -962,7 +962,7 @@
     {
         "name": "Al Bhed Primer XII",
         "type": "toggle",
-        "img": "images/items/albhedprimerxii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -1422,7 +1422,7 @@
     {
         "name": "Al Bhed Primer XXVI",
         "type": "toggle",
-        "img": "images/items/albhedprimerxxvi.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -1952,7 +1952,7 @@
     {
         "name": "Al Bhed Primer V",
         "type": "toggle",
-        "img": "images/items/albhedprimerv.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -2032,7 +2032,7 @@
     {
         "name": "Al Bhed Primer XXV",
         "type": "toggle",
-        "img": "images/items/albhedprimerxxv.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -3652,7 +3652,7 @@
     {
         "name": "Al Bhed Primer XXIV",
         "type": "toggle",
-        "img": "images/items/albhedprimerxxiv.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -3732,7 +3732,7 @@
     {
         "name": "Al Bhed Primer VII",
         "type": "toggle",
-        "img": "images/items/albhedprimervii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -4182,7 +4182,7 @@
     {
         "name": "Al Bhed Primer XXII",
         "type": "toggle",
-        "img": "images/items/albhedprimerxxii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -4502,7 +4502,7 @@
     {
         "name": "Al Bhed Primer XIII",
         "type": "toggle",
-        "img": "images/items/albhedprimerxiii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -4963,7 +4963,7 @@
     {
         "name": "Al Bhed Primer II",
         "type": "toggle",
-        "img": "images/items/albhedprimerii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -5393,7 +5393,7 @@
     {
         "name": "Al Bhed Primer I",
         "type": "toggle",
-        "img": "images/items/albhedprimeri.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -5633,7 +5633,7 @@
     {
         "name": "Al Bhed Primer XX",
         "type": "toggle",
-        "img": "images/items/albhedprimerxx.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -5863,7 +5863,7 @@
     {
         "name": "Al Bhed Primer XVII",
         "type": "toggle",
-        "img": "images/items/albhedprimerxvii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -6924,7 +6924,7 @@
     {
         "name": "Al Bhed Primer XIV",
         "type": "toggle",
-        "img": "images/items/albhedprimerxiv.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -7134,7 +7134,7 @@
     {
         "name": "Al Bhed Primer XIX",
         "type": "toggle",
-        "img": "images/items/albhedprimerxix.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -8004,7 +8004,7 @@
     {
         "name": "Al Bhed Primer VI",
         "type": "toggle",
-        "img": "images/items/albhedprimervi.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -8174,7 +8174,7 @@
     {
         "name": "Al Bhed Primer XVI",
         "type": "toggle",
-        "img": "images/items/albhedprimerxvi.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -8634,7 +8634,7 @@
     {
         "name": "Al Bhed Primer XI",
         "type": "toggle",
-        "img": "images/items/albhedprimerxi.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -9164,7 +9164,7 @@
     {
         "name": "Al Bhed Primer X",
         "type": "toggle",
-        "img": "images/items/albhedprimerx.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -9574,7 +9574,7 @@
     {
         "name": "Al Bhed Primer IX",
         "type": "toggle",
-        "img": "images/items/albhedprimerix.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -9594,7 +9594,7 @@
     {
         "name": "Al Bhed Primer XV",
         "type": "toggle",
-        "img": "images/items/albhedprimerxv.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -9744,7 +9744,7 @@
     {
         "name": "Al Bhed Primer IV",
         "type": "toggle",
-        "img": "images/items/albhedprimeriv.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -9814,7 +9814,7 @@
     {
         "name": "Al Bhed Primer XXI",
         "type": "toggle",
-        "img": "images/items/albhedprimerxxi.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -9984,7 +9984,7 @@
     {
         "name": "Al Bhed Primer XXIII",
         "type": "toggle",
-        "img": "images/items/albhedprimerxxiii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -10244,7 +10244,7 @@
     {
         "name": "Al Bhed Primer XVIII",
         "type": "toggle",
-        "img": "images/items/albhedprimerxviii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -11134,7 +11134,7 @@
     {
         "name": "Al Bhed Primer VIII",
         "type": "toggle",
-        "img": "images/items/albhedprimerviii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -11464,7 +11464,7 @@
     {
         "name": "Al Bhed Primer III",
         "type": "toggle",
-        "img": "images/items/albhedprimeriii.png",
+        "img": "images/items/hd/Al_Bhed_Primer_HD.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,

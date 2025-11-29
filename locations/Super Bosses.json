@@ -7,37 +7,121 @@
         "access_rules": ["[superbosses]"],
         "children": [
             {
+                "name": "Dark Anima",
+                "map_locations": [{ "map": "Gagazet", "x": 0, "y": 0}],
+                "access_rules": ["$hasGagazet"],
+                "sections": [
+                    {
+                        "hosted_item": "darkanima",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
+                "name": "Dark Bahamut",
+                "map_locations": [{ "map": "Zanarkand", "x": 0, "y": 0}],
+                "access_rules": ["$hasZanarkand, yunalesca", "{$hasZanarkand}"],
+                "sections": [
+                    {
+                        "hosted_item": "darkbahamut",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
                 "name": "Dark Ifrit",
-                "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
-                "access_rules": ["$hasBikanel, homecomplete", "{$hasBikanel}"],
-                "sections": [{}]
+                "map_locations": [{ "map": "Bikanel", "x": 0, "y": 0}],
+                "access_rules": ["$hasBikanel, homecompletion3", "{$hasBikanel}"],
+                "sections": [
+                    {
+                        "hosted_item": "darkifrit",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
             },
             {
                 "name": "Dark Ixion",
                 "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
                 "access_rules": ["$hasThunderPlains"],
-                "sections": [{}]
+                "sections": [
+                    {
+                        "hosted_item": "darkixion",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
             },
             {
                 "name": "Dark Magus Sisters",
                 "map_locations": [{ "map": "Mushroom Rock Road Entrance", "x": 0, "y": 0}],
                 "access_rules": ["$hasMRR, sinspawngui", "{$hasMRR}"],
                 "sections": [
-                    {"name": "Dark Mindy"},
-                    {"name": "Dark Sandy"},
-                    {"name": "Dark Cindy"}
+                    {
+                        "name": "Dark Mindy",
+                        "hosted_item": "darkmindy",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Dark Sandy",
+                        "hosted_item": "darksandy",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    },
+                    {
+                        "name": "Dark Cindy",
+                        "hosted_item": "darkcindy",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
                 ]
             },
             {
                 "name": "Dark Shiva",
-                "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                "map_locations": [{ "map": "Lake Macalania", "x": 0, "y": 0}],
                 "access_rules": ["$hasMacalania, wendigo", "{$hasMacalania}"],
-                "sections": [{}]
+                "sections": [
+                    {
+                        "hosted_item": "darkshiva",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
             },
             {
                 "name": "Dark Valefor",
                 "map_locations": [{ "map": "Besaid Village", "x": 245, "y": 465}],
                 "access_rules": ["$hasBesaid, besaidcloister", "{$hasBesaid}"],
+                "sections": [
+                    {
+                        "hosted_item": "darkvalefor",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
+                "name": "Dark Yojimbo",
+                "map_locations": [{ "map": "Cavern of the Stolen Fayth", "x": 245, "y": 465}],
+                "access_rules": ["$hasCavern"],
+                "sections": [
+                    {
+                        "hosted_item": "darkyojimbo",
+                        "item_count": 1,
+                        "clear_as_group": true
+                    }
+                ]
+            },
+            {
+                "name": "Penance",
+                "map_locations": [{ "map": "Airship", "x": 245, "y": 465}],
+                "access_rules": [
+                    "$hasAirship, darkanima, darkbahamut, darkcindy, darkifrit, darkixion, darkmindy, darksandy, darkshiva, darkvalefor, darkyojimbo",
+                    "{$hasAirship}"
+                ],
                 "sections": [{}]
             }
         ]

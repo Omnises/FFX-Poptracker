@@ -6,6 +6,15 @@
         "overlay_background": "#000000",
         "children": [
             {
+                "name": "Complete Al Bhed Primers",
+                "map_locations": [{ "map": "Airship", "x": 0, "y": 0}],
+                "access_rules": [
+                    "$hasAirship, albhedprimeri, albhedprimerii, albhedprimeriii, albhedprimeriv, albhedprimerv, albhedprimervi, albhedprimervii, albhedprimerviii, albhedprimerix, albhedprimerx, albhedprimerxi, albhedprimerxii, albhedprimerxiii, albhedprimerxiv, albhedprimerxv, albhedprimerxvi, albhedprimerxvii, albhedprimerxviii, albhedprimerxix, albhedprimerxx, albhedprimerxxi, albhedprimerxxii, albhedprimerxxiii, albhedprimerxxiv, albhedprimerxxv, albhedprimerxxvi",
+                    "{$hasAirship}"
+                ],
+                "sections": [{}]
+            },
+            {
                 "name": "Al Bhed Primer I",
                 "map_locations": [{ "map": "Al Bhed Ship", "x": 0, "y": 0}],
                 "access_rules": ["$hasBaaj"],
@@ -85,7 +94,11 @@
             },
             {
                 "name": "Al Bhed Primer XIV",
-                "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                "map_locations": [
+                    { "map": "Thunder Plains", "x": 0, "y": 0},
+                    { "map": "Bikanel", "x": 0, "y": 0}
+                ],
+                "access_rules": ["$hasThunderPlains", "$hasBikanel"],
                 "sections": [
                     {"name": "Thunder Plains", "access_rules": ["$hasThunderPlains"]},
                     {"name": "Bikanel", "access_rules": ["$hasBikanel"]}
@@ -115,6 +128,24 @@
                 "access_rules": ["$hasBikanel"],
                 "sections": [{}]
             },
+            {
+                "name": "Al Bhed Primer XIX",
+                "map_locations": [{ "map": "Home", "x": 0, "y": 0}],
+                "access_rules": ["$hasBikanel"],
+                "sections": [{}]
+            },
+            {
+                "name": "Al Bhed Primer XX",
+                "map_locations": [{ "map": "Home", "x": 0, "y": 0}],
+                "access_rules": ["$hasBikanel"],
+                "sections": [{}]
+            },
+            {
+                "name": "Al Bhed Primer XXI",
+                "map_locations": [{ "map": "Home", "x": 0, "y": 0}],
+                "access_rules": ["$hasBikanel"],
+                "sections": [{}]
+            }
         ]
     }
 ]

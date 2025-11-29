@@ -8,6 +8,13 @@
         "codes": "klikk"
     },
     {
+        "name": "Geosgaeno Defeated",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "geosgaeno"
+    },
+    {
         "name": "Chocobo Eater Defeated",
         "type": "toggle",
         "capturable": true,
@@ -70,6 +77,113 @@
         "capturable": true,
         "initial_active_state": false,
         "codes": "wendigo"
+    },
+    {
+        "name": "Evrae",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "evrae"
+    },
+    {
+        "name": "Sin Left Fin",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sinleftfin"
+    },
+    {
+        "name": "Sin Right Fin",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sinrightfin"
+    },
+    {
+        "name": "Sinspawn Genais and Core",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sincore"
+    },
+    {
+        "name": "Overdrive Sin",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "sinoverdrive"
+    },
+    
+    //Dark Aeons
+    {
+        "name": "Dark Anima",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkanima"
+    },
+    {
+        "name": "Dark Bahamut",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkbahamut"
+    },
+    {
+        "name": "Dark Cindy",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkcindy"
+    },
+    {
+        "name": "Dark Ifrit",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkifrit"
+    },
+    {
+        "name": "Dark Ixion",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkixion"
+    },
+    {
+        "name": "Dark Mindy",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkmindy"
+    },
+    {
+        "name": "Dark Sandy",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darksandy"
+    },
+    {
+        "name": "Dark Shiva",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkshiva"
+    },
+    {
+        "name": "Dark Valefor",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkvalefor"
+    },
+    {
+        "name": "Dark Yojimbo",
+        "type": "toggle",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "darkyojimbo"
     },
     
     //Overdrives
@@ -506,5 +620,49 @@
         "capturable": true,
         "initial_active_state": false,
         "codes": "albhedpotionx8-2"
+    },
+    {
+        "name": "Al Bhed Primer XIV",
+        "type": "toggle",
+        "img": "images/items/hd/Al_Bhed_Primer_HD_BW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/items/hd/Al_Bhed_Primer_HD.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "albhedprimerxiv"
+    },
+    {
+        "name": "Lv. 2 Key Sphere x1",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "homecompletion1"
+    },
+    {
+        "name": "Lv. 4 Key Sphere x4",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "homecompletion2"
+    },
+    {
+        "name": "10000 gil",
+        "type": "toggle",
+        "img": "images/TreasureBW.png",
+        "img_mods": "@disabled",
+        "disabled_img": "images/Treasure.png",
+        "disabled_img_mods": "",
+        "capturable": true,
+        "initial_active_state": false,
+        "codes": "homecompletion3"
     }
 ]
