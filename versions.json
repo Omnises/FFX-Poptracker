@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.1.2",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.2/FFX.zip",
+            "sha256": "35fe271f2602825fe1ddb3559045774d9cd6890efb6b2a697c242f102b6ec156",
+            "changelog": [
+                " - Added additional Al Bhed Primer locations to Bikanel"
+            ]
+        },
+        {
             "package_version": "0.1.1",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.1/FFX.zip",
             "sha256": "cb4c06e4cae717d38c643dfac79c1e030e327dd62d9c9a1ffc8022b4ac4b37a8",

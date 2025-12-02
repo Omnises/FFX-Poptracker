@@ -16,9 +16,14 @@
             },
             {
                 "name": "Al Bhed Primer I",
-                "map_locations": [{ "map": "Al Bhed Ship", "x": 0, "y": 0}],
-                "access_rules": ["$hasBaaj"],
-                "sections": [{}]
+                "map_locations": [
+                    {"map": "Al Bhed Ship", "x": 0, "y": 0},
+                    { "map": "Bikanel", "x": 0, "y": 0}
+                ],
+                "sections": [
+                    {"name": "Al Bhed Ship", "access_rules": ["$hasBaaj"]},
+                    {"name": "Bikanel", "access_rules": ["$hasBikanel"]}
+                ]
             },
             {
                 "name": "Al Bhed Primer II",
@@ -28,9 +33,14 @@
             },
             {
                 "name": "Al Bhed Primer III",
-                "map_locations": [{ "map": "S.S. Liki", "x": 0, "y": 0}],
-                "access_rules": ["$hasBesaid"],
-                "sections": [{}]
+                "map_locations": [
+                    { "map": "S.S. Liki", "x": 0, "y": 0},
+                    { "map": "Bikanel", "x": 0, "y": 0}
+                ],
+                "sections": [
+                    {"name": "S.S. Liki", "access_rules": ["$hasBesaid"]},
+                    {"name": "Bikanel", "access_rules": ["$hasBikanel"]}
+                ]
             },
             {
                 "name": "Al Bhed Primer IV",
@@ -40,9 +50,14 @@
             },
             {
                 "name": "Al Bhed Primer V",
-                "map_locations": [{ "map": "S.S. Winno", "x": 0, "y": 0}],
-                "access_rules": ["$hasKilika"],
-                "sections": [{}]
+                "map_locations": [
+                    { "map": "S.S. Winno", "x": 0, "y": 0},
+                    { "map": "Bikanel", "x": 0, "y": 0}
+                ],
+                "sections": [
+                    {"name": "S.S. Winno", "access_rules": ["$hasKilika"]},
+                    {"name": "Bikanel", "access_rules": ["$hasBikanel"]}
+                ]
             },
             {
                 "name": "Al Bhed Primer VI",
@@ -98,7 +113,6 @@
                     { "map": "Thunder Plains", "x": 0, "y": 0},
                     { "map": "Bikanel", "x": 0, "y": 0}
                 ],
-                "access_rules": ["$hasThunderPlains", "$hasBikanel"],
                 "sections": [
                     {"name": "Thunder Plains", "access_rules": ["$hasThunderPlains"]},
                     {"name": "Bikanel", "access_rules": ["$hasBikanel"]}

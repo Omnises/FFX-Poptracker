@@ -15,7 +15,7 @@
                     },
                     {
                         "name": "Al Bhed Primer I",
-                        "ref": "Al Bhed Primers/Al Bhed Primer I/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer I/Al Bhed Ship"
                     },
                     {
                         "name": "Tros",
@@ -958,6 +958,10 @@
                     {
                         "name": "Bikanel East - Remedy x4 (Chest)",
                         "ref": "Bikanel/Desert/East/Remedy x4 (Chest)/"
+                    },
+                    {
+                        "name": "Bikanel East - Al Bhed Primer I",
+                        "ref": "Al Bhed Primers/Al Bhed Primer I/Bikanel"
                     },
                     {
                         "name": "Bikanel East - Al Bhed Potion x8",
