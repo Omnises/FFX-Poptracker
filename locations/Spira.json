@@ -177,7 +177,7 @@
                     },
                     {
                         "name": "Al Bhed Primer III",
-                        "ref": "Al Bhed Primers/Al Bhed Primer III/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer III/S.S. Liki"
                     },
                     {
                         "name": "Sin Fin",
@@ -265,7 +265,7 @@
                     },
                     {
                         "name": "Al Bhed Primer V",
-                        "ref": "Al Bhed Primers/Al Bhed Primer V/"
+                        "ref": "Al Bhed Primers/Al Bhed Primer V/S.S. Winno"
                     },
                     {
                         "name": "Ace Wizard (Seagulls)",
@@ -966,6 +966,14 @@
                     {
                         "name": "Bikanel East - Al Bhed Potion x8",
                         "ref": "Bikanel/Desert/East/Al Bhed Potion x8/"
+                    },
+                    {
+                        "name": "Bikanel East - Al Bhed Primer III",
+                        "ref": "Al Bhed Primers/Al Bhed Primer III/Bikanel"
+                    },
+                    {
+                        "name": "Bikanel East - Al Bhed Primer V",
+                        "ref": "Al Bhed Primers/Al Bhed Primer V/Bikanel"
                     },
                     {
                         "name": "Bikanel East - Ether x2 (Chest)",
