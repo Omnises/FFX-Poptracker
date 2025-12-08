@@ -920,19 +920,19 @@
                 "map_locations": [{ "map": "Spira", "x": 343, "y": 400}],
                 "sections": [
                     {
-                        "name": "Bikanel East - Remedy x4 (Chest)",
-                        "ref": "Bikanel/Desert/East/Remedy x4 (Chest)/"
+                        "name": "Bikanel Oasis - Remedy x4 (Chest)",
+                        "ref": "Bikanel/Desert/Oasis/Remedy x4 (Chest)/"
                     },
                     {
-                        "name": "Bikanel East - Al Bhed Primer I",
+                        "name": "Bikanel Oasis - Al Bhed Primer I",
                         "ref": "Al Bhed Primers/Al Bhed Primer I/Bikanel"
                     },
                     {
-                        "name": "Bikanel East - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/East/Al Bhed Potion x8/"
+                        "name": "Bikanel Oasis - Al Bhed Potion x8",
+                        "ref": "Bikanel/Desert/Oasis/Al Bhed Potion x8/"
                     },
                     {
-                        "name": "Bikanel East - Al Bhed Primer III",
+                        "name": "Bikanel Oasis - Al Bhed Primer III",
                         "ref": "Al Bhed Primers/Al Bhed Primer III/Bikanel"
                     },
                     {
