@@ -167,3 +167,29 @@ function CheckAccessLevel(Region)
     -- print("CHECK ACCESS: " .. Region .. " | " .. RegionAccessibility[Region])
     return RegionAccessibility[Region]
 end
+
+function CheckGoalRequirement()
+    local goal = Tracker:FindObjectForCode("goalrequirement").CurrentStage
+    
+    if (goal == 0) then
+        -- No Requirements
+        return ACCESS_NORMAL
+    elseif (goal == 1) then
+        -- Party Members
+        if (hasPartyMembers(Tracker:ProviderCountForCode("requiredpartymembers"))) then
+            return ACCESS_NORMAL
+        else
+            return ACCESS_NONE
+        end
+    elseif (goal == 2) then
+        -- Pilgrimage (Unsupported, data not available from @Moonflow/Smoke Bomb x6 (Lose Aeon Fight)
+        return ACCESS_NORMAL
+    elseif (goal == 3) then
+        -- Party Members & Aeons
+        if (hasPartyMembersAndAeons(Tracker:ProviderCountForCode("requiredpartymembers"))) then
+            return ACCESS_NORMAL
+        else
+            return ACCESS_NONE
+        end
+    end
+end

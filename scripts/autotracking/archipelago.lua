@@ -78,8 +78,18 @@ end
 function applySlotData(slot_data)
     print("APPLY SLOT DATA")
 
-    Tracker:FindObjectForCode("goal_requirement").AcquiredCount = slot_data["logic_difficulty"]
-    Tracker:FindObjectForCode("required_party_members").AcquiredCount = slot_data["required_party_members"]
+    local goal = slot_data["goal_requirement"]
+    if (goal == 0) then
+        Tracker:FindObjectForCode("goalrequirement").CurrentStage = 1
+    elseif (goal == 1) then
+        Tracker:FindObjectForCode("goalrequirement").CurrentStage = 2
+    elseif (goal == 2) then
+        Tracker:FindObjectForCode("goalrequirement").CurrentStage = 3
+    elseif (goal == 3) then
+        Tracker:FindObjectForCode("goalrequirement").CurrentStage = 4
+    end
+
+    Tracker:FindObjectForCode("requiredpartymembers").AcquiredCount = slot_data["required_party_members"]
     Tracker:FindObjectForCode("superbosses").Active = slot_data["super_bosses"]
     Tracker:FindObjectForCode("minigames").Active = slot_data["mini_games"]
     Tracker:FindObjectForCode("logicdifficulty").AcquiredCount = slot_data["logic_difficulty"]
