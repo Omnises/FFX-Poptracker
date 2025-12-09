@@ -142,7 +142,7 @@ function UpdateAccessLevels()
             else
                 for CheckRegion, AccessRegion in pairs(RegionAccessRegions[Region]) do
                     if (RegionAccessibility[AccessRegion] == ACCESS_NORMAL) then
-                        -- print(AccessRegion .. " | ACCESS_NORMAL")
+                        -- print(CheckRegion .. " | " .. AccessRegion .. " | ACCESS_NORMAL")
                         RegionAccessibility[Region] = ACCESS_NORMAL
                         break
                     else
@@ -156,6 +156,6 @@ function UpdateAccessLevels()
 end
 
 function CheckAccessLevel(Region)
-    -- print("CHECK ACCESS: " .. Region)
+    -- print("CHECK ACCESS: " .. Region .. " | " .. RegionAccessibility[Region])
     return RegionAccessibility[Region]
 end

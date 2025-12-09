@@ -26,6 +26,7 @@ ScriptHost:AddWatchForCode("update access levels: moonflow", "moonflow", UpdateA
 ScriptHost:AddWatchForCode("update access levels: mushroomrockroad", "mushroomrockroad", UpdateAccessLevels)
 ScriptHost:AddWatchForCode("update access levels: omegaruins", "omegaruins", UpdateAccessLevels)
 ScriptHost:AddWatchForCode("update access levels: sin", "sin", UpdateAccessLevels)
+ScriptHost:AddWatchForCode("update access levels: superbosses", "superbosses", UpdateAccessLevels)
 ScriptHost:AddWatchForCode("update access levels: thunderplains", "thunderplains", UpdateAccessLevels)
 ScriptHost:AddWatchForCode("update access levels: zanarkand", "zanarkand", UpdateAccessLevels)
 
