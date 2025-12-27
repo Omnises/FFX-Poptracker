@@ -3,7 +3,7 @@
         {
             "package_version": "0.2.0",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.0/FFX.zip",
-            "sha256": "",
+            "sha256": "96dd33c44a9c10485f740a1ee26f8ddc8c5654c0f196ee3ec84bedabd94a3c57",
             "changelog": [
                 " - Major Refactor for UT compatibility (WIP)",
                 " - - Using descriptive location names from the Check Guide", 
