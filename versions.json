@@ -1,6 +1,14 @@
 {
     "versions": [
         {
+            "package_version": "0.2.4",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.4/FFX.zip",
+            "sha256": "",
+            "changelog": [
+                " - Moved blitz recruit location in Djose from Temple to Pilgrimage Road"
+            ]
+        },
+        {
             "package_version": "0.2.3",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.3/FFX.zip",
             "sha256": "ad61932db75f7949d76cdb13009d7633634bdffed0684d99334d24f5e7433cba",

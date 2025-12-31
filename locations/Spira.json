@@ -612,10 +612,6 @@
                         "ref": "Djose/Temple/West Behind Lucil's Squad (Chest)/4000 gil"
                     },
                     {
-                        "name": "Temple - Recruit Kyou",
-                        "ref": "Blitzball Recruits/Kyou"
-                    },
-                    {
                         "name": "Temple - Ether x1 (Chest)",
                         "ref": "Djose/Temple/In Front of Nuns' Chamber (Chest)/Ether x1"
                     },
@@ -646,6 +642,10 @@
                     {
                         "name": "Pilgrimage Road - Hi-Potion x2 (NPC)",
                         "ref": "Djose/Pilgrimage Road/Monk Pacing Along Bridge (NPC)/Hi-Potion x2"
+                    },
+                    {
+                        "name": "Pilgrimage Road - Recruit Kyou",
+                        "ref": "Blitzball Recruits/Kyou"
                     }
                 ]
             },
