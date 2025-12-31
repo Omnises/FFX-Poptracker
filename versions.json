@@ -1,6 +1,62 @@
 {
     "versions": [
         {
+            "package_version": "0.2.2",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.2/FFX.zip",
+            "sha256": "61b931fff991d361eee3cc58240b451b79b2aed90f97b668da0b2b7b3fc1e565",
+            "changelog": [
+                " - Fixed Guadosalam 2nd visit checks not showing",
+                " - Fixed Masamune not showing"
+            ]
+        },
+        {
+            "package_version": "0.2.1",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.1/FFX.zip",
+            "sha256": "205c37759703453f6c69c4f1b8c46b8287f96be244e3e3cd5f0711bdac1b4669",
+            "changelog": [
+                " - Fixed Superboss location mapping",
+                " - Fixed various locations not marking off from autotracking",
+                " - Fixed Goal tracking for access to BFA location",
+                " - Added Blossom Crown & Flower Scepter to item tracker",
+                " - Updated item mapping to match with updated apworld datapackage"
+            ]
+        },
+        {
+            "package_version": "0.2.0",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.0/FFX.zip",
+            "sha256": "96dd33c44a9c10485f740a1ee26f8ddc8c5654c0f196ee3ec84bedabd94a3c57",
+            "changelog": [
+                " - Major Refactor for UT compatibility (WIP)",
+                " - - Using descriptive location names from the Check Guide", 
+                " - Added RecruitSanity Locations & option support",
+                " - Pilgrimage Goal support",
+                " - Added Baaj Temple Map"
+            ]
+        },
+        {
+            "package_version": "0.1.12",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.12/FFX.zip",
+            "sha256": "c597720044ed06ee667f57bab8608985dfd7744264a4f97ce1a2764839db0909",
+            "changelog": [
+                " - Added Party Member Locations"
+            ]
+        },
+        {
+            "package_version": "0.1.12_Beta",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.12_Beta/FFX.zip",
+            "sha256": "02ea1d5be5702f8666227ca0580bd7209d05005e2e3c68672c4d5d534c96cb96",
+            "changelog": [
+                " - Split Bikanel Oasis from Eastern Desert locations",
+                " - Slot data reads from multiworld (available from next apworld version)",
+                " - Adjusted region logic levels based on new apworld values",
+                " - Added new region logic for Baaj & Airship, to split based on before/after Geosgaeno & Evrae",
+                " - Omega Weapon logic level fixed",
+                " - BFA location added to Inside Sin",
+                " - Settings added for Goal Requirement & Required Party Members, which define access to BFA location",
+                " - - Pilgrimage goal tracking not currently supported due to apworld limitations"
+            ]
+        },
+        {
             "package_version": "0.1.11",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.1.11/FFX.zip",
             "sha256": "3646295549dc093b19d6007744b02ab00ce75c6242fb57da9526cc851e10f1e6",
