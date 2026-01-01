@@ -1386,15 +1386,15 @@
                     {
                         "name": "Area Conquest (Calm Lands) - Nirvana",
                         "ref": "Celestial/Yuna/Nirvana"
-                    },
-                    {
-                        "name": "Area Conquest (Mt. Gagazet) - Blossom Crown",
-                        "ref": "Monster Arena/Area Conquest/Blossom Crown/"
-                    },
-                    {
-                        "name": "Monster Creations x10 - Mars Sigil",
-                        "ref": "Celestial/Auron/Mars Sigil"
                     }
+                    // {
+                    //     "name": "Area Conquest (Mt. Gagazet) - Blossom Crown",
+                    //     "ref": "Monster Arena/Area Conquest/Blossom Crown/"
+                    // },
+                    // {
+                    //     "name": "Monster Creations x10 - Mars Sigil",
+                    //     "ref": "Celestial/Auron/Mars Sigil"
+                    // }
                 ]
             },
             {
