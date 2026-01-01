@@ -713,7 +713,7 @@
                 "sections": [
                     {
                         "name": "Guadosalam - Mega-Potion x1 (Chest)",
-                        "ref": "Guadosalam/Guadosalam/Mega-Potion x1 (Chest)/"
+                        "ref": "Guadosalam/Guadosalam/East of Mansion (Chest)/Mega-Potion x1"
                     },
                     {
                         "name": "Guadosalam - Al Bhed Primer XIII",
@@ -721,15 +721,15 @@
                     },
                     {
                         "name": "Guadosalam - 3000 gil (Chest)",
-                        "ref": "Guadosalam/Guadosalam/3000 gil (Chest)/"
+                        "ref": "Guadosalam/Guadosalam/House - Back Wall (Chest)/3000 gil"
                     },
                     {
                         "name": "Guadosalam - Elixir x1 (Chest)",
-                        "ref": "Guadosalam/Guadosalam/Elixir x1 (Chest)/"
+                        "ref": "Guadosalam/Guadosalam/Upper Level, South Side (Chest)/Elixir x1"
                     },
                     {
                         "name": "Guadosalam - Hi-Potion x2 (Chest)",
-                        "ref": "Guadosalam/Guadosalam/Hi-Potion x2 (Chest)/"
+                        "ref": "Guadosalam/Guadosalam/Mansion, Entrance - Upper Level (Chest)/Hi-Potion x2"
                     },
                     {
                         "name": "Guadosalam - Recruit Yuma Guado",
@@ -737,7 +737,7 @@
                     },
                     {
                         "name": "Farplane - Lightning Marble x8 (Chest)",
-                        "ref": "Guadosalam/Farplane/Lightning Marble x8 (Chest)/"
+                        "ref": "Guadosalam/Farplane/Road to Farplane - Left Side Behind Wall (Chest)/Lightning Marble x8"
                     },
                     {
                         "name": "Farplane - Brotherhood Upgrade",
@@ -755,50 +755,54 @@
                 "sections": [
                     {
                         "name": "South - Phoenix Down x2 (Chest)",
-                        "ref": "Thunder Plains/South/Phoenix Down x2 (Chest)/"
+                        "ref": "Thunder Plains/South/West Side, South of Save Sphere (Chest)/Phoenix Down x2"
                     },
                     {
                         "name": "South - Hi-Potion x2 (Chest)",
-                        "ref": "Thunder Plains/South/Hi-Potion x2 (Chest)/"
+                        "ref": "Thunder Plains/South/West Side, North of Save Sphere (Chest)/Hi-Potion x2"
                     },
                     {
                         "name": "South - 5000 gil (Chest)",
-                        "ref": "Thunder Plains/South/5000 gil (Chest)/"
+                        "ref": "Thunder Plains/South/West Side, Behind First Cactuar Statue (Chest)/5000 gil"
                     },
                     {
                         "name": "South - Water Ball (Chest)",
-                        "ref": "Thunder Plains/South/Water Ball (Chest)/"
+                        "ref": "Thunder Plains/South/East Side, Alcove With Second Cactuar Statue (Chest)/Water Ball"
+                    },
+                    {
+                        "name": "Agency - Recruit Mifurey",
+                        "ref": "Blitzball Recruits/Mifurey"
                     },
                     {
                         "name": "Agency - Al Bhed Primer XIV",
                         "ref": "Al Bhed Primers/Al Bhed Primer XIV/Thunder Plains"
                     },
                     {
-                        "name": "Airship - Recruit Mifurey",
-                        "ref": "Blitzball Recruits/Mifurey"
-                    },
-                    {
                         "name": "Agency - Yellow Shield (Ground Item)",
-                        "ref": "Thunder Plains/Agency/Yellow Shield (Ground Item)/"
+                        "ref": "Thunder Plains/Agency/Agency Front (Ground Item)/Yellow Shield"
                     },
                     {
                         "name": "North - X-Potion x1 (Chest)",
-                        "ref": "Thunder Plains/North/X-Potion x1 (Chest)/"
+                        "ref": "Thunder Plains/North/East Side, Near Southeast Exit (Chest)/X-Potion x1"
                     },
                     {
                         "name": "North - Ether x1 (Chest)",
-                        "ref": "Thunder Plains/North/Ether x1 (Chest)/"
+                        "ref": "Thunder Plains/North/West Side, Behind Sheltered Lightning Rod (Chest)/Ether x1"
                     },
                     {
                         "name": "North - 2000 gil (Chest)",
-                        "ref": "Thunder Plains/North/2000 gil (Chest)/"
+                        "ref": "Thunder Plains/North/East of Final Lightning Rod (Chest)/2000 gil"
                     },
                     {
                         "name": "North - Remedy x1 (Chest)",
-                        "ref": "Thunder Plains/North/Remedy x1 (Chest)/"
+                        "ref": "Thunder Plains/North/West Side, Near North Exit (Chest)/Remedy x1"
                     },
                     {
-                        "name": "Lightning Dodging",
+                        "name": "North - Spirit Lance (Cactuar Statues)",
+                        "ref": "Celestial/Kimahri/Spirit Lance"
+                    },
+                    {
+                        "name": "Agency - Lightning Dodging",
                         "ref": "Thunder Plains/Agency/Lightning Dodging/"
                     },
                     {
