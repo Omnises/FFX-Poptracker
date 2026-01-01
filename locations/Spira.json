@@ -1005,7 +1005,7 @@
                 "sections": [
                     {
                         "name": "Bikanel Oasis - Remedy x4 (Chest)",
-                        "ref": "Bikanel/Desert/Oasis/Remedy x4 (Chest)/"
+                        "ref": "Bikanel/Desert/Oasis/In Southwest Corner of Water (Chest)/Remedy x4"
                     },
                     {
                         "name": "Bikanel Oasis - Al Bhed Primer I",
@@ -1013,7 +1013,7 @@
                     },
                     {
                         "name": "Bikanel Oasis - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/Oasis/Al Bhed Potion x8/"
+                        "ref": "Bikanel/Desert/Oasis/Next to Tent (Chest)/Al Bhed Potion x8"
                     },
                     {
                         "name": "Bikanel Oasis - Al Bhed Primer III",
@@ -1025,7 +1025,11 @@
                     },
                     {
                         "name": "Bikanel East - Ether x2 (Chest)",
-                        "ref": "Bikanel/Desert/East/Ether x2 (Chest)/"
+                        "ref": "Bikanel/Desert/East/Near First Tent, Right (Chest)/Ether x2"
+                    },
+                    {
+                        "name": "Bikanel East - Al Bhed Potion x8",
+                        "ref": "Bikanel/Desert/East/Near First Tent, Left (Chest)/Al Bhed Potion x8"
                     },
                     {
                         "name": "Bikanel East - Al Bhed Primer XIV",
@@ -1033,19 +1037,23 @@
                     },
                     {
                         "name": "Bikanel East - Hi-Potion x4 (Chest)",
-                        "ref": "Bikanel/Desert/East/Hi-Potion x4 (Chest)/"
+                        "ref": "Bikanel/Desert/East/Western Alcove, Near Structure (Chest)/Hi-Potion x4"
+                    },
+                    {
+                        "name": "Bikanel Central - Hi-Potion x4 (Chest)",
+                        "ref": "Bikanel/Desert/Central/Structure Southeast of Save Sphere (Chest)/Hi-Potion x4"
                     },
                     {
                         "name": "Bikanel Central - X-Potion x2 (Chest)",
-                        "ref": "Bikanel/Desert/Central/X-Potion x2 (Chest)/"
+                        "ref": "Bikanel/Desert/Central/Rock Ridge Southwest of Save Sphere (Chest)/X-Potion x2"
                     },
                     {
                         "name": "Bikanel Central - Mega-Potion x2 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Mega-Potion x2 (Chest)/"
+                        "ref": "Bikanel/Desert/Central/Far West Corner (Chest)/Mega-Potion x2"
                     },
                     {
                         "name": "Bikanel Central - Al Bhed Potion x8",
-                        "ref": "Bikanel/Desert/Central/Al Bhed Potion x8/"
+                        "ref": "Bikanel/Desert/Central/Right of Save Sphere (Chest)/Al Bhed Potion x8"
                     },
                     {
                         "name": "Bikanel Central - Al Bhed Primer XVIII",
@@ -1053,15 +1061,15 @@
                     },
                     {
                         "name": "Bikanel Central - Elixir x1 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Elixir x1 (Chest)/"
+                        "ref": "Bikanel/Desert/Central/Southwest Corner of Northwest Zone (Chest)/Elixir x1"
                     },
                     {
                         "name": "Bikanel Central - Lv. 2 Key Sphere x1 (Chest)",
-                        "ref": "Bikanel/Desert/Central/Lv. 2 Key Sphere x1 (Chest)/"
+                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone, Top (Chest)/Lv. 2 Key Sphere x1"
                     },
                     {
                         "name": "Bikanel Central - 10000 gil (Chest)",
-                        "ref": "Bikanel/Desert/Central/10000 gil (Chest)/"
+                        "ref": "Bikanel/Desert/Central/Central Structure of Northwest Zone, Bottom (Chest)/10000 gil"
                     },
                     {
                         "name": "Bikanel Central - Al Bhed Primer XVII",
@@ -1069,15 +1077,15 @@
                     },
                     {
                         "name": "Bikanel West - Megalixir x3 (Chest)",
-                        "ref": "Bikanel/Desert/West/Megalixir x3 (Chest)/"
+                        "ref": "Bikanel/Desert/West/Left Sinkhole on Main Path (Chest)/Megalixir x3"
                     },
                     {
                         "name": "Bikanel West - Teleport Sphere x2 (Chest)",
-                        "ref": "Bikanel/Desert/West/Teleport Sphere x2 (Chest)/"
+                        "ref": "Bikanel/Desert/West/Right Sinkhole on  Main Path (Chest)/Teleport Sphere x2"
                     },
                     {
                         "name": "Bikanel West - Hi-Potion x8 (Chest)",
-                        "ref": "Bikanel/Desert/West/Hi-Potion x8 (Chest)/"
+                        "ref": "Bikanel/Desert/West/First Western Alcove, Between Rocks (Chest)/Hi-Potion x8"
                     },
                     {
                         "name": "Bikanel West - Mercury Crest (Chest)",
@@ -1085,11 +1093,11 @@
                     },
                     {
                         "name": "Bikanel West - Mega-Potion x3 (Chest)",
-                        "ref": "Bikanel/Desert/West/Mega-Potion x3 (Chest)/"
+                        "ref": "Bikanel/Desert/West/Second Western Alcove, Hidden Behind Rock (Chest)/Mega-Potion x3"
                     },
                     {
                         "name": "Bikanel West - X-Potion x2 (Chest)",
-                        "ref": "Bikanel/Desert/West/X-Potion x2 (Chest)/"
+                        "ref": "Bikanel/Desert/West/Second Western Alcove, North Side (Chest)/X-Potion x2"
                     },
                     {
                         "name": "Bikanel West - Mercury Sigil (Cactuar Village)",
