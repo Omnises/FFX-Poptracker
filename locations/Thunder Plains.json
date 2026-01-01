@@ -36,12 +36,12 @@
                 "children": [
                     {
                         "name": "Blitzball Recruit",
-                        "map_locations": [{ "map": "Miihen Highroad Agency", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
                         "sections": [{"name": "Mifurey", "ref": "Blitzball Recruits/Mifurey"}]
                     },
                     {
                         "name": "Talk to Rikku, Then Rin (Event)",
-                        "map_locations": [{ "map": "Guadosalam", "x": 0, "y": 0}],
+                        "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
                         "sections": [
                             {
                                 "name": "Al Bhed Primer XIV",
