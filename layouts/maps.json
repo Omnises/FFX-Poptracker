@@ -3,10 +3,25 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Omega Ruins",
+                "title": "Zanarkand",
                 "content": {
-                    "type": "map",
-                    "maps": ["Omega Ruins"]
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Ruins",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Zanarkand Ruins"]
+                            }
+                        },
+                        {
+                            "title": "Temple",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Zanarkand Temple"]
+                            }
+                        }
+                    ]
                 }
             },
             {
@@ -435,17 +450,17 @@
                     "type": "tabbed",
                     "tabs": [
                         {
-                            "title": "Zanarkand",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Zanarkand"]
-                            }
-                        },
-                        {
-                            "title": "Zanarkand Ruins",
+                            "title": "Ruins",
                             "content": {
                                 "type": "map",
                                 "maps": ["Zanarkand Ruins"]
+                            }
+                        },
+                        {
+                            "title": "Temple",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Zanarkand Temple"]
                             }
                         }
                     ]

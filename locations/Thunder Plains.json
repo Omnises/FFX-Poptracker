@@ -55,6 +55,16 @@
                         "sections": [{"name": "Yellow Shield"}]
                     },
                     {
+                        "name": "Cactuar Statue Minigame (Event)",
+                        "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                        "sections": [
+                            {
+                                "name": "Spirit Lance",
+                                "ref": "Celestial/Kimahri/Spirit Lance"
+                            }
+                        ]
+                    },
+                    {
                         "name": "Lightning Dodging",
                         "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
                         "access_rules": ["[minigames]"],
@@ -129,16 +139,6 @@
                         "name": "West Side, Near North Exit (Chest)",
                         "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
                         "sections": [{"name": "Remedy x1"}]
-                    },
-                    {
-                        "name": "Cactuar Statue Minigame (Event)",
-                        "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
-                        "sections": [
-                            {
-                                "name": "Spirit Lance",
-                                "ref": "Celestial/Kimahri/Spirit Lance"
-                            }
-                        ]
                     },
                     {
                         "name": "Defeat Dark Ixion (Superboss)",
