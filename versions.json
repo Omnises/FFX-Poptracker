@@ -1,6 +1,17 @@
 {
     "versions": [
         {
+            "package_version": "0.2.5",
+            "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.5/FFX.zip",
+            "sha256": "80256b841931d7c886f056850f149a1efa9a729d59b3130cebc366d11695423b",
+            "changelog": [
+                " - Added region maps for Gagazet, Zanarkand, Inside Sin & Omega Ruins",
+                " - Continued UT compatibilty refactor (WIP)",
+                " - Cleanup file structure",
+                " - Changed Saturn Sigil Accessibility"
+            ]
+        },
+        {
             "package_version": "0.2.4",
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.4/FFX.zip",
             "sha256": "e6ddc714526317b535bcf076eb02960e6533e331b03d22b4ebc73ed06847f7d5",

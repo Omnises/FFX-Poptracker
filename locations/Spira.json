@@ -798,7 +798,7 @@
                         "ref": "Thunder Plains/North/West Side, Near North Exit (Chest)/Remedy x1"
                     },
                     {
-                        "name": "North - Spirit Lance (Cactuar Statues)",
+                        "name": "South - Spirit Lance (Cactuar Statues)",
                         "ref": "Celestial/Kimahri/Spirit Lance"
                     },
                     {
@@ -1457,31 +1457,31 @@
                 "sections": [
                     {
                         "name": "Outside - Biran and Yenke",
-                        "ref": "Mt. Gagazet/Biran and Yenke/"
+                        "ref": "Mt. Gagazet/Defeat Biran and Yenke (Boss)/Biran and Yenke"
                     },
                     {
                         "name": "Outside - 20000 gil (Chest)",
-                        "ref": "Mt. Gagazet/Outside/20000 gil (Chest)/"
+                        "ref": "Mt. Gagazet/Outside/Top of Right Ridge Near South Exit (Chest)/20000 gil"
                     },
                     {
                         "name": "Outside - Mega-Potion x2 (Chest)",
-                        "ref": "Mt. Gagazet/Outside/Mega-Potion x2 (Chest)/"
+                        "ref": "Mt. Gagazet/Outside/Left Alcove Near South Exit (Chest)/Mega-Potion x2"
                     },
                     {
                         "name": "Outside - Defending Bracer (Chest)",
-                        "ref": "Mt. Gagazet/Outside/Defending Bracer (Chest)/"
+                        "ref": "Mt. Gagazet/Outside/West Branch Before Bridge to Wantz (Chest)/Defending Bracer"
                     },
                     {
                         "name": "Outside - Lv. 4 Key Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Outside/Lv. 4 Key Sphere x1 (Chest)/"
+                        "ref": "Mt. Gagazet/Outside/Under Bridge After Wantz (Chests)/Lv. 4 Key Sphere x1"
                     },
                     {
                         "name": "Outside - HP Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Outside/HP Sphere x1 (Chest)/"
+                        "ref": "Mt. Gagazet/Outside/Under Bridge After Wantz (Chests)/HP Sphere x1"
                     },
                     {
                         "name": "Outside - Seymour Flux",
-                        "ref": "Mt. Gagazet/Outside/Seymour Flux/"
+                        "ref": "Mt. Gagazet/Outside/Defeat Seymour Flux (Boss)/Seymour Flux"
                     },
                     {
                         "name": "Outside - Saturn Crest (Chest)",
@@ -1489,27 +1489,27 @@
                     },
                     {
                         "name": "Inside - Lv. 1 Key Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Inside/Lv. 1 Key Sphere x1 (Chest)/"
+                        "ref": "Mt. Gagazet/Inside/Reward from First Trial (Chest)/Lv. 1 Key Sphere x1"
                     },
                     {
                         "name": "Inside - Fortune Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Inside/Fortune Sphere x1 (Chest)/"
+                        "ref": "Mt. Gagazet/Inside/Reward From Second Trial (Chest)/Fortune Sphere x1"
                     },
                     {
                         "name": "Inside - Return Sphere x1 (Chest)",
-                        "ref": "Mt. Gagazet/Inside/Return Sphere x1 (Chest)/"
+                        "ref": "Mt. Gagazet/Inside/After Both Trials, East Exit From Save Sphere, Left (Chest)/Return Sphere x1"
                     },
                     {
                         "name": "Inside - Recovery Ring (Chest)",
-                        "ref": "Mt. Gagazet/Inside/Recovery Ring (Chest)/"
+                        "ref": "Mt. Gagazet/Inside/After Both Trials, East Exit From Save Sphere, Left (Chest)/Recovery Ring"
                     },
                     {
                         "name": "Inside - Pep Talk (Chest)",
-                        "ref": "Mt. Gagazet/Inside/Pep Talk (Chest)/"
+                        "ref": "Mt. Gagazet/Inside/After Both Trials, Left Alcove, Northwest of Save Sphere (Chest)/Pep Talk"
                     },
                     {
                         "name": "Inside - Sanctuary Keeper",
-                        "ref": "Mt. Gagazet/Inside/Sanctuary Keeper/"
+                        "ref": "Mt. Gagazet/Inside/Defeat Sanctuary Keeper (Boss)/Sanctuary Keeper"
                     },
                     {
                         "name": "Super Bosses - Dark Anima",
@@ -1518,43 +1518,43 @@
                 ]
             },
             {
-                "name": "Zanarkand Ruins",
+                "name": "Zanarkand",
                 "map_locations": [{ "map": "Spira", "x": 785, "y": 50}],
                 "sections": [
                     {
                         "name": "Overpass - Fortune Sphere x1 (Chest)",
-                        "ref": "Zanarkand/Overpass/Fortune Sphere x1 (Chest)/"
+                        "ref": "Zanarkand/Overpass/South Side, West Bend (Chest)/Fortune Sphere x1"
                     },
                     {
                         "name": "Overpass - Spiritual Targe (Chest)",
-                        "ref": "Zanarkand/Overpass/Spiritual Targe (Chest)/"
+                        "ref": "Zanarkand/Overpass/North Side, Left Alcove (Chest)/Spiritual Targe"
                     },
                     {
                         "name": "Dome - 10000 gil (Chest)",
-                        "ref": "Zanarkand/Dome/10000 gil (Chest)/"
+                        "ref": "Zanarkand/Dome/Road Above Underpass (Chest)/10000 gil"
                     },
                     {
                         "name": "Dome - Friend Sphere x1 (Chest)",
-                        "ref": "Zanarkand/Dome/Friend Sphere x1 (Chest)/"
+                        "ref": "Zanarkand/Dome/West From 4-Way Intersection (Chest)/Friend Sphere x1"
                     },
                     {
                         "name": "Dome - Lv. 3 Key Sphere x1 (Chest)",
-                        "ref": "Zanarkand/Dome/Lv. 3 Key Sphere x1 (Chest)/"
+                        "ref": "Zanarkand/Dome/Rubble Path Down Before Circular Doorway (Chest)/Lv. 3 Key Sphere x1"
                     },
                     {
                         "name": "Dome - Luck Sphere x1 (Chest)",
-                        "ref": "Zanarkand/Dome/Luck Sphere x1 (Chest)/"
+                        "ref": "Zanarkand/Dome/Right Side (Chest)/Luck Sphere x1"
                     },
                     {
-                        "name": "Cloister - Spectral Keeper",
-                        "ref": "Zanarkand/Temple/Spectral Keeper/"
+                        "name": "Temple - Spectral Keeper",
+                        "ref": "Zanarkand/Temple/Defeat Spectral Keeper (Boss)/Spectral Keeper"
                     },
                     {
-                        "name": "Cloister - Yunalesca",
-                        "ref": "Zanarkand/Temple/Yunalesca/"
+                        "name": "Temple - Yunalesca",
+                        "ref": "Zanarkand/Temple/Defeat Yunalesca (Boss)/Yunalesca"
                     },
                     {
-                        "name": "Cloister - Sun Crest (Chest)",
+                        "name": "Temple - Sun Crest (Chest)",
                         "ref": "Celestial/Tidus/Sun Crest"
                     },
                     {
@@ -1573,63 +1573,63 @@
                 "sections": [
                     {
                         "name": "Sea of Sorrow - Phantom Ring (Chest)",
-                        "ref": "Inside Sin/Sea of Sorrow/Phantom Ring (Chest)/"
+                        "ref": "Inside Sin/Sea of Sorrow/West Alcove (Chest)/Phantom Ring"
                     },
                     {
                         "name": "Sea of Sorrow - Special Sphere x1 (Chest)",
-                        "ref": "Inside Sin/Sea of Sorrow/Special Sphere x1 (Chest)/"
+                        "ref": "Inside Sin/Sea of Sorrow/Atop Western Falls (Chest)/Special Sphere x1"
                     },
                     {
                         "name": "Sea of Sorrow - Elixir x1 (Chest)",
-                        "ref": "Inside Sin/Sea of Sorrow/Elixir x1 (Chest)/"
+                        "ref": "Inside Sin/Sea of Sorrow/Northwestern Alcove (Chest)/Elixir x1"
                     },
                     {
                         "name": "Sea of Sorrow - Wizard Lance (Chest)",
-                        "ref": "Inside Sin/Sea of Sorrow/Wizard Lance (Chest)/"
+                        "ref": "Inside Sin/Sea of Sorrow/Atop Eastern Falls (Chest)/Wizard Lance"
                     },
                     {
                         "name": "Sea of Sorrow - Lv. 3 Key Sphere x1 (Chest)",
-                        "ref": "Inside Sin/Sea of Sorrow/Lv. 3 Key Sphere x1 (Chest)/"
+                        "ref": "Inside Sin/Sea of Sorrow/Eastern Alcove, Near Final North Branch (Chest)/Lv. 3 Key Sphere x1"
                     },
                     {
                         "name": "Sea of Sorrow - Seymour Omnis",
-                        "ref": "Inside Sin/Sea of Sorrow/Seymour Omnis/"
+                        "ref": "Inside Sin/Sea of Sorrow/Defeat Seymour Omnis (Boss)/Seymour Omnis"
                     },
                     {
                         "name": "City of Dying Dreams - Lv. 4 Key Sphere x1 (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/Lv. 4 Key Sphere x1 (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/East Glyph Near South Exit, Defeat 10/10/15 Fiends (Chest)/Lv. 4 Key Sphere x1"
                     },
                     {
                         "name": "City of Dying Dreams - Four-on-One (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/Four-on-One (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/South Side, Lift on Small Bridge (Chest)/Four-on-One"
                     },
                     {
                         "name": "City of Dying Dreams - Defending Bracer (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/Defending Bracer (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/South of First Open Area, Push North Wall Down (Chest)/Defending Bracer"
                     },
                     {
                         "name": "City of Dying Dreams - 20000 gil (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/20000 gil (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/First Open Area, Ramp Down in Center (Chest)/20000 gil"
                     },
                     {
                         "name": "City of Dying Dreams - Megalixir x1 (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/Megalixir x1 (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/First Open Area, Glyph in Northwest Corner (Chest)/Megalixir x1"
                     },
                     {
                         "name": "City of Dying Dreams - HP Sphere x1 (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/HP Sphere x1 (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/Lift Up in Center of First Open Area (Chest)/HP Sphere x1"
                     },
                     {
                         "name": "City of Dying Dreams - Defense Sphere x1 (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/Defense Sphere x1 (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/Lift Up in Center of First Area, Just Before Lift Down (Chest)/Defense Sphere x1"
                     },
                     {
                         "name": "City of Dying Dreams - Laevatein (Chest)",
-                        "ref": "Inside Sin/City of Dying Dreams/Laevatein (Chest)/"
+                        "ref": "Inside Sin/City of Dying Dreams/Secret Slide South of Rising Block Area (Chest)/Laevatein"
                     },
                     {
                         "name": "City of Dying Dreams - Braska's Final Aeon",
-                        "ref": "Inside Sin/City of Dying Dreams/Braska's Final Aeon/"
+                        "ref": "Inside Sin/City of Dying Dreams/Defeat Braska's Final Aeon (Boss)/Braska's Final Aeon"
                     }
                 ]
             },
@@ -1639,7 +1639,7 @@
                 "sections": [
                     {
                         "name": "Teleport Sphere x1 (Chest)",
-                        "ref": "Omega Ruins/Teleport Sphere x1 (Chest)/"
+                        "ref": "Omega Ruins/Press Both Glyphs, Then Take Narrow Central Path (Chest)/Teleport Sphere x1"
                     },
                     {
                         "name": "Al Bhed Primer XXVI",
@@ -1647,11 +1647,11 @@
                     },
                     {
                         "name": "Ultima Weapon",
-                        "ref": "Omega Ruins/Ultima Weapon/"
+                        "ref": "Omega Ruins/Defeat Ultima Weapon (Boss)/Ultima Weapon"
                     },
                     {
                         "name": "Friend Sphere x1 (Chest)",
-                        "ref": "Omega Ruins/Friend Sphere x1 (Chest)/"
+                        "ref": "Omega Ruins/West Path (Chest)/Friend Sphere x1"
                     },
                     {
                         "name": "Omega Weapon",
@@ -1659,7 +1659,7 @@
                     },
                     {
                         "name": "Magic Sphere x1 (Chest)",
-                        "ref": "Omega Ruins/Magic Sphere x1 (Chest)/"
+                        "ref": "Omega Ruins/Omega Boss Arena (Chest)/Magic Sphere x1"
                     }
                 ]
             }

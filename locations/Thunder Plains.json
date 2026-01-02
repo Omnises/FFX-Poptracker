@@ -28,6 +28,16 @@
                         "name": "East Side, Alcove With Second Cactuar Statue (Chest)",
                         "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
                         "sections": [{"name": "Water Ball"}]
+                    },
+                    {
+                        "name": "Cactuar Statue Minigame (Event)",
+                        "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
+                        "sections": [
+                            {
+                                "name": "Spirit Lance",
+                                "ref": "Celestial/Kimahri/Spirit Lance"
+                            }
+                        ]
                     }
                 ]
             },
@@ -129,16 +139,6 @@
                         "name": "West Side, Near North Exit (Chest)",
                         "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
                         "sections": [{"name": "Remedy x1"}]
-                    },
-                    {
-                        "name": "Cactuar Statue Minigame (Event)",
-                        "map_locations": [{ "map": "Thunder Plains", "x": 0, "y": 0}],
-                        "sections": [
-                            {
-                                "name": "Spirit Lance",
-                                "ref": "Celestial/Kimahri/Spirit Lance"
-                            }
-                        ]
                     },
                     {
                         "name": "Defeat Dark Ixion (Superboss)",
