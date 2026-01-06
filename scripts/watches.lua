@@ -35,20 +35,5 @@ ScriptHost:AddWatchForCode("update access levels: zanarkand", "zanarkand", Updat
 -- Logic Difficulty Watch
 ScriptHost:AddWatchForCode("Update Region Access Table", "logicdifficulty", UpdateAccessRegions)
 
--- Primer Watches
-Primers = {
-    "albhedprimeri"   , "albhedprimerii"   , "albhedprimeriii"  ,
-    "albhedprimeriv"  , "albhedprimerv"    , "albhedprimervi"   ,
-    "albhedprimervii" , "albhedprimerviii" , "albhedprimerix"   ,
-    "albhedprimerx"   , "albhedprimerxi"   , "albhedprimerxii"  ,
-    "albhedprimerxiii", "albhedprimerxiv"  , "albhedprimerxv"   ,
-    "albhedprimerxvi" , "albhedprimerxvii" , "albhedprimerxviii",
-    "albhedprimerxix" , "albhedprimerxx"   , "albhedprimerxxi"  ,
-    "albhedprimerxxii", "albhedprimerxxiii", "albhedprimerxxiv" ,
-    "albhedprimerxxv" , "albhedprimerxxvi"
-    
-}
-for _, code in ipairs(Primers) do
-    print("WATCH FOR: " .. code)
-    ScriptHost:AddWatchForCode("Primer Increment for " .. code, code, PrimerIncrement)
-end
+-- Primer Watch
+ScriptHost:AddWatchForCode("Update Al Bhed Primer Total", "albhedprimer", UpdatePrimerTotal)
