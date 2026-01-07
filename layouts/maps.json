@@ -3,13 +3,6 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Temple",
-                "content": {
-                    "type": "map",
-                    "maps": ["Kilika Temple"]
-                }
-            },
-            {
                 "title": "World Map",
                 "content": {
                     "type": "map",
@@ -238,6 +231,13 @@
                             "content": {
                                 "type": "map",
                                 "maps": ["Kilika Temple"]
+                            }
+                        },
+                        {
+                            "title": "S.S. Winno",
+                            "content": {
+                                "type": "map",
+                                "maps": ["S.S. Winno"]
                             }
                         }
                     ]
