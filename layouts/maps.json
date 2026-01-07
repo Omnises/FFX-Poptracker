@@ -3,10 +3,10 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Guadosalam",
+                "title": "Woods",
                 "content": {
                     "type": "map",
-                    "maps": ["Guadosalam"]
+                    "maps": ["Macalania Woods"]
                 }
             },
             {
@@ -251,28 +251,6 @@
                 }
             },
             {
-                "title": "Macalania",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Woods",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Macalania Woods"]
-                            }
-                        },
-                        {
-                            "title": "Lake",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Lake Macalania"]
-                            }
-                        }
-                    ]
-                }
-            },
-            {
                 "title": "Luca",
                 "content": {
                     "type": "tabbed",
@@ -296,6 +274,28 @@
                             "content": {
                                 "type": "map",
                                 "maps": ["Luca City"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Macalania",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Woods",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Macalania Woodsxx"]
+                            }
+                        },
+                        {
+                            "title": "Lake",
+                            "content": {
+                                "type": "map",
+                                "maps": ["Lake Macalaniaxx"]
                             }
                         }
                     ]

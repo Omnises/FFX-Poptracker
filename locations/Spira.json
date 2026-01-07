@@ -850,8 +850,32 @@
                         "ref": "Celestial/Kimahri/Spirit Lance"
                     },
                     {
-                        "name": "Agency - Lightning Dodging",
-                        "ref": "Thunder Plains/Agency/Lightning Dodging/"
+                        "name": "Agency - 5x Lightning Dodging",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/X-Potion x2 (5x Dodges)"
+                    },
+                    {
+                        "name": "Agency - 10x Lightning Dodging",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Mega-Potion x2 (10x Dodges)"
+                    },
+                    {
+                        "name": "Agency - 20x Lightning Dodging",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/MP Sphere x2 (20x Dodges)"
+                    },
+                    {
+                        "name": "Agency - 50x Lightning Dodging",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Strength Sphere x3 (50x Dodges)"
+                    },
+                    {
+                        "name": "Agency - 100x Lightning Dodging",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/HP Sphere x3 (100x Dodges)"
+                    },
+                    {
+                        "name": "Agency - 150x Lightning Dodging",
+                        "ref": "Thunder Plains/Agency/Lightning Dodging/Megalixir x4 (150x Dodges)"
+                    },
+                    {
+                        "name": "Agency - 200x Lightning Dodging",
+                        "ref": "Celestial/Lulu/Venus Sigil"
                     },
                     {
                         "name": "Super Bosses - Dark Ixion",
