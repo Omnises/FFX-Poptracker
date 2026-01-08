@@ -317,7 +317,7 @@
                     },
                     {
                         "name": "Ace Wizard (11 Seagulls)",
-                        "ref": "S.S. Winno/Top Floor, Counting Gulls (NPC - 11 Seagulls)/Ace Wizard"
+                        "ref": "S.S. Winno/Top Floor, Counting Gulls (2nd Visit, NPC - 11 Seagulls)/Ace Wizard"
                     }
                 ]
             },
@@ -681,7 +681,11 @@
                     },
                     {
                         "name": "Temple - Cloister of Trials",
-                        "ref": "Djose/Temple/Cloister/"
+                        "ref": "Djose/Temple/Cloister of Trials/Destruction Sphere - Magic Sphere"
+                    },
+                    {
+                        "name": "Temple - Ixion",
+                        "ref": "Party Member/Aeon/Ixion"
                     },
                     {
                         "name": "Temple - Switch Hitter (Chest)",

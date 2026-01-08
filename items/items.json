@@ -512,7 +512,7 @@
     {
         "name": "Region: Kilika",
         "type": "toggle",
-        "img": "images/Treasure.png",
+        "img": "images/maps/resources/symbols/Ifrit Kilika Fire.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -2072,7 +2072,7 @@
     {
         "name": "Region: Djose",
         "type": "toggle",
-        "img": "images/Treasure.png",
+        "img": "images/maps/resources/symbols/Ixion Djose Thunder.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -2742,7 +2742,7 @@
     {
         "name": "Region: Sin",
         "type": "toggle",
-        "img": "images/Treasure.png",
+        "img": "images/maps/resources/symbols/Sin.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -4906,7 +4906,7 @@
     {
         "name": "Region: Besaid",
         "type": "toggle",
-        "img": "images/Treasure.png",
+        "img": "images/maps/resources/symbols/Valefor Besaid Water.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,
@@ -5619,7 +5619,7 @@
     {
         "name": "Region: Macalania",
         "type": "toggle",
-        "img": "images/Treasure.png",
+        "img": "images/maps/resources/symbols/Shiva Macalania Ice.png",
         "img_mods": "",
         "disabled_img": "",
         "initial_active_state": false,

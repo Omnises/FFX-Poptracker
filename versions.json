@@ -5,7 +5,7 @@
             "download_url": "https://github.com/Andrewki44/FFX-Poptracker/releases/download/v0.2.9/FFX.zip",
             "sha256": "",
             "changelog": [
-                " - Added region maps for Djose, Luca, Macalania & Mushroom Rock Road",
+                " - Added region maps for Djose, Luca, Macalania, Miihen Highroad, Mushroom Rock Road & S.S. Winno",
                 " - Updated relevant locations to stay out-of-logic (yellow) after killing an ool boss, until the boss would be in logic",
                 " - Continued UT compatibility refactor (WIP)"
             ]
