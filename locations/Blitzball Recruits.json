@@ -68,7 +68,7 @@
             },
             {
                 "name": "Shuu",
-                "access_rules": ["@Luca, oblitzerator"]
+                "access_rules": ["@Luca, oblitzerator, [$hasMinimumParty|3]"]
             },
             {
                 "name": "Svanda",

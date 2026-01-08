@@ -3,10 +3,10 @@
         "type": "tabbed",
         "tabs": [
             {
-                "title": "Mushroom Rock Road",
+                "title": "Luca",
                 "content": {
                     "type": "map",
-                    "maps": ["Mushroom Rock Road"]
+                    "maps": ["Luca"]
                 }
             },
             {
@@ -231,30 +231,8 @@
             {
                 "title": "Luca",
                 "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Stadium",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Luca Stadium"]
-                            }
-                        },
-                        {
-                            "title": "Dock",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Luca Dock"]
-                            }
-                        },
-                        {
-                            "title": "City",
-                            "content": {
-                                "type": "map",
-                                "maps": ["Luca City"]
-                            }
-                        }
-                    ]
+                    "type": "map",
+                    "maps": ["Luca"]
                 }
             },
             {
